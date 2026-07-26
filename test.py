@@ -6,3 +6,9 @@ def test2():
 
 def test3():
     return 0
+
+def test4():
+    return
+
+def test5():
+    return
