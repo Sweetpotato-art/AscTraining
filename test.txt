@@ -1,10 +1,7 @@
 Chongwei He
-<<<<<<< HEAD
-Runzhi Li
-=======
 Jinhao Zhang
 Canxi Lin
 JIaju Li
 Jinyan Xie
 Runshen Zhang
->>>>>>> 9cca2e694725d7692f9ab70cfa26b88725027309
+Runzhi Li
