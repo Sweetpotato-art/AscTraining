@@ -4,6 +4,5 @@ def test1():
 def test2():
     return 
 
-def test3():
-    return
-
+def test4():
+    return 0
